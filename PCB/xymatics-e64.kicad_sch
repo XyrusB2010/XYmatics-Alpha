@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "0b623d23-bb96-4cb3-be8c-180bf957f458")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 152.4 165.1)
+		(size 12.7 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a03e3172-d565-4060-83ad-6ff625fd839d")
+		(property "Sheetname" "RPI-CM4"
+			(at 152.4 164.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cm4.kicad_sch"
+			(at 152.4 178.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "xymatics-e64"
+				(path "/0b623d23-bb96-4cb3-be8c-180bf957f458"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
